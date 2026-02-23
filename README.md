@@ -23,16 +23,13 @@ Hidden throughout the environment are small symbolic objects (“glyphs”). The
 
 ## Setup and Interaction Instructions
 
-How to Run
+How to Run:
 
-Install or open the p5.js Web Editor (https://editor.p5js.org/)
-OR run locally using a simple web server (e.g., VS Code Live Server).
+Open the project folder in Visual Studio Code.
 
-Create a new sketch.
+Use Live Server or open index.html in a browser.
 
-Replace the default sketch.js with the provided project code.
-
-Click Run.
+It ill load automatically.
 
 Controls
 
