@@ -29,7 +29,7 @@ Open the project folder in Visual Studio Code.
 
 Use Live Server or open index.html in a browser.
 
-It ill load automatically.
+It will load automatically.
 
 Controls
 
